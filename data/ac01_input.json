@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"id": "E3000", "quantity": 1},
+    {"id": "B3000", "quantity": 1}
+  ],
+  "promo": "STUDY10",
+  "fulfillment": "delivery"
+}

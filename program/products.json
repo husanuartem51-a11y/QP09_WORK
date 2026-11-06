@@ -1,0 +1,86 @@
+[
+  {
+    "id": "B3000",
+    "name": "Термос Север",
+    "price": 300000,
+    "stock": 10,
+    "eligible": false
+  },
+  {
+    "id": "E3000",
+    "name": "Рюкзак Город",
+    "price": 300000,
+    "stock": 10,
+    "eligible": true
+  },
+  {
+    "id": "E10005",
+    "name": "Карандаш Графит",
+    "price": 10005,
+    "stock": 10,
+    "eligible": true
+  },
+  {
+    "id": "E10004",
+    "name": "Блокнот Линия",
+    "price": 10004,
+    "stock": 10,
+    "eligible": true
+  },
+  {
+    "id": "E10006",
+    "name": "Папка Архив",
+    "price": 10006,
+    "stock": 10,
+    "eligible": true
+  },
+  {
+    "id": "N200",
+    "name": "Пенал Сетка",
+    "price": 20000,
+    "stock": 10,
+    "eligible": false
+  },
+  {
+    "id": "LOW",
+    "name": "Лампа Рабочая",
+    "price": 299999,
+    "stock": 10,
+    "eligible": false
+  },
+  {
+    "id": "HIGH",
+    "name": "Коврик Большой",
+    "price": 300001,
+    "stock": 10,
+    "eligible": false
+  },
+  {
+    "id": "S2",
+    "name": "Кружка Керамика",
+    "price": 15000,
+    "stock": 2,
+    "eligible": true
+  },
+  {
+    "id": "ZERO",
+    "name": "Чехол Резерв",
+    "price": 90000,
+    "stock": 0,
+    "eligible": true
+  },
+  {
+    "id": "A2",
+    "name": "Наклейка Круг",
+    "price": 200,
+    "stock": 10,
+    "eligible": true
+  },
+  {
+    "id": "Z10",
+    "name": "Закладка Полоса",
+    "price": 1000,
+    "stock": 10,
+    "eligible": true
+  }
+]
